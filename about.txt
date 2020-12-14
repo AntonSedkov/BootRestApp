@@ -1,0 +1,11 @@
+1. Maven + Spring Boot Starter
+2. Spring Boot Starter Web + boot mapping from resources/static(public,resources) directly
+3. Changing server.port in application.yaml
+4. banner at the top of starting app console in resources + http://patorjk.com/software/taag
+5. rest controller with mapping
+6. Spring Boot Starter JDBC + h2 database + Spring Boot devtools
+h2-authority in application.yaml
+URL:        http://localhost:8090/h2-console
+JDBC URL:   jdbc:h2:mem:testdb
+7. Spring Boot Starter Data JPA : auto creation tables and auto generation queries
+6. Spring Boot Starter Actuator + metrics + in application.yaml
